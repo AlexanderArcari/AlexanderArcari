@@ -6,6 +6,10 @@ I am currently learning C++, but already have a strong understanding of Python. 
 
 Fun Fact: I am bilingual in Spanish and have traveled to Argentina, Spain, Mexico, Portugal, and Italy. I love to travel and my next desination is Puerto Rico. 
 
+You can also find me on LinkedIn: www.linkedin.com/in/alexander-arcari
+
+
+
 <!--
 **AlexanderArcari/AlexanderArcari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
