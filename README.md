@@ -4,7 +4,7 @@ I am currently working on receiving my B.S in Computer Science from Oakland Univ
 
 I am currently learning C++, but already have a strong understanding of Python. I would really like to learn how to use Python to create data analysis projects. Any advice would be appreciated!!
 
-Fun Fact: I am bilingual in Spanish and have traveled to Argentina, Spain, Mexico, Portugal, and Italy. I love to travel and my next desination is Puerto Rico. 
+Fun Fact: I am bilingual in Spanish and have traveled to Argentina, Spain, Mexico, Puerto Rico, Portugal, and Italy. 
 
 
 
