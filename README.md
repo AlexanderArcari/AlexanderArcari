@@ -2,7 +2,7 @@
 
 I am currently working on receiving my B.S in Computer Science from Oakland University in Auburn Hills, MI. My B.S will be my second Bachelor's degree, as I have already obtained a B.A in Political Science. 
 
-I am currently learning C++, but already have a strong understanding of Python. I would really like to learn how to use Python to create data analysis projects. Any advice would be appreciated!!
+I have a strong understanding of Python and C++. I would really like to learn how to use Python to create data analysis projects. Any advice would be appreciated!
 
 Fun Fact: I am bilingual in Spanish and have traveled to Argentina, Spain, Mexico, Puerto Rico, Portugal, and Italy. 
 
